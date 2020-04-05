@@ -1,5 +1,5 @@
 if true
-  puts "even!"
+  p "even!"
 else
-  puts "Odd!"
+  p "Odd!"
 end
