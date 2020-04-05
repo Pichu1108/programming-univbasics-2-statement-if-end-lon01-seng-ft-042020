@@ -1,5 +1,5 @@
 if true
-  p "even!"
+  print "even!"
 else
-  p "Odd!"
+  print "Odd!"
 end
